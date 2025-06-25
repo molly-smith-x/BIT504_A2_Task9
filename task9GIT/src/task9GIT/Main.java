@@ -13,6 +13,7 @@ public class Main {
     	
     	System.out.println("You are " + feeling + "! This is Task 9 for BIT504.");
 
+    	System.out.println("This is my final output for Assessment 2.");
     	scanner.close();
     }
 }
